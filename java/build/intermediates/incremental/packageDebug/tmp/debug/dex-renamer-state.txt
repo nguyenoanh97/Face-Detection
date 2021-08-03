@@ -1,0 +1,4 @@
+#Fri Jul 30 09:36:44 ICT 2021
+base.0=/home/nguyetgt/Downloads/res-1594294974-1594294974972/FaceDetection/java/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
